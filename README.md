@@ -1,7 +1,8 @@
 Reto4
 ELaborado por :
+
 Johan Sebastián Gomez
-Andres Dario Peña
+Andres Dario Peña Asprilla
 
 
  En las capturas  el nombre  (Registro) asocia al registro de entrada de los datos
